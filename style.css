@@ -1,0 +1,53 @@
+body{
+  font-family: 'Quicksand', sans-serif;
+
+}
+
+header{
+  height: 100px;
+  background-color: black;
+}
+
+.header-container{
+  margin-right: 40px;
+}
+
+.header-container li{
+  float: right;
+  line-height: 100px;
+  margin-right: 40px;
+  list-style: none;
+}
+
+.list{
+  color: white;;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.top-wrapper{
+  text-align: center;
+  font-size: 25px;
+  margin: 120px 0px 120px 0px;
+  letter-spacing: 5px;
+}
+
+.class-wrapper{
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 120px;
+}
+
+.btn{
+  font-size: 15px;
+  margin: 0px 50px 170px 50px;
+}
+
+footer{
+  line-height: 100px;
+  font-size: 20px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
