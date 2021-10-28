@@ -184,7 +184,7 @@ const quiz = [
 
 const quizLength = quiz.length
 let quizIndex = 0;
-const score = 0;
+let score = 0;
 
 
 
